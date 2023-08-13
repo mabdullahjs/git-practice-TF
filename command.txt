@@ -3,4 +3,3 @@ git config --global user.email "user_email"
 git add .
 git commit -m"project initialization"
 git push origin main
-git
